@@ -20,12 +20,7 @@ header {
   display: flex;
   justify-content: center;
 }
-footer
-{
-    text-align: center;
-    font-family: Arial, Helvetica, sans-serif;
-    margin-top: 20px;
-}
+
 img {
   width: 60px;
   height: 60px;
@@ -53,4 +48,11 @@ pre {
 span {
   color: white;
   font-weight: bold;
+}
+
+footer {
+  display: flex;
+  justify-content: center;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-top: 20px;
 }
